@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # 🎮 WumpusQuest.AI
 
 [![Web3](https://img.shields.io/badge/Web3-Enabled-blue?style=for-the-badge&logo=web3.js)](https://web3js.readthedocs.io/)
