@@ -12,7 +12,7 @@
 
 [Play Now](#) • [Documentation](#) • [NFT Collection](#) • [Leaderboard](#)
 
-![WumpusQuest Banner](https://via.placeholder.com/1200x400?text=WumpusQuest.AI:+Web3+Gaming+Evolution)
+![WumpusQuest Banner](https://via.placeholder.com/1200x400?text=WumpusQuest.AI:+Web3+Gaming+Evolved)
 
 </div>
 
