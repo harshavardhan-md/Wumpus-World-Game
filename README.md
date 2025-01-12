@@ -104,8 +104,8 @@ graph TD
 ## 🛣️ Development Roadmap
 
 ### Phase 1: Foundation (Q2 2024)
-- [x] Core game mechanics
-- [x] Basic AI implementation
+- [ ] Core game mechanics
+- [ ] Basic AI implementation
 - [ ] Web3 wallet integration
 
 ### Phase 2: Enhancement (Q3 2024)
